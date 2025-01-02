@@ -27,11 +27,11 @@ Puis remplissez les champs :
 ![image](https://github.com/user-attachments/assets/8173f801-940b-4548-ad7a-79dae77e5093)
 
 Par défaut, lors du premier lancement de l'application :
-- Les options "Directeur, Technicien, utilisateur" sont créées dans le champ "Auteur",
+- Les options "Directeur, Technicien, Utilisateur" sont créées dans le champ "Auteur",
 - Les options "Technicien A, Technicien B, Technicien C" sont créées dans le champ "Assigné à",
 - Les options "Presta 1, Presta 2, Presta 3" sont créées dans le champ "Saisie Prest.",
 
-Les champs comprtant un asterix rouge sont obligatoires.
+Les champs comportant un asterix rouge sont obligatoires.
 
 Pour valider l'ajout du ticket, il vous suffit de cliquez sur "*Ajouter Ticket*".
 
