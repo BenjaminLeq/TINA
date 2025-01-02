@@ -71,5 +71,6 @@ Il est possible de supprimer les utilisateurs par défaut et d'en ajouter des no
 ![image](https://github.com/user-attachments/assets/ea873351-50ee-48c6-8682-914182f485a4)
 
 Pour ajouter un auteur, un technicien ou un prestataire, il vous suffit de saisir le nom de la personne ou de l'entreprise dans le champ dédié et de cliquer sur le bouton "*Ajouter*".
+
 Pour supprimer un auteur, un technicien ou un prestataire, il vous suffit de sélectionner la personne ou l'entreprise dans la liste déroulante correspondante et de cliquer sur "*Supprimer*".
 
