@@ -44,10 +44,10 @@ Trois options d'interraction ont été mise en place :
 - Paramètres : permet de créer/supprimer des auteurs, techniciens et prestataires.
 
 ![image](https://github.com/user-attachments/assets/7c885bb4-bd2d-4421-afe3-0df43af744c2)
-*Statistiques*
+       *Statistiques*
 
 ![image](https://github.com/user-attachments/assets/e7386ef6-0cc7-4068-97a7-33dd0d97068f)
-*Paramètres*
+       *Paramètres*
 
 
 
